@@ -1,0 +1,40 @@
+body{background-color: white;}
+ .t1{
+  margin-left: 48px;
+  top: 40px;
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  }
+   .p1{
+    margin-left: 38px;
+    top: 131px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    }
+     .t2{
+      margin-left: -1200px;
+      top: 290px;
+      font-family: 'Inter';
+      font-style: italic;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 24px;
+      text-align: center;
+      }
+       .p2{
+        margin-left: 48px;
+        top: 381px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        }
